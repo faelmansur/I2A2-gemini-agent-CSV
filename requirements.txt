@@ -1,0 +1,11 @@
+# Execute: pip install -r requirements.txt
+
+streamlit
+pandas
+langchain
+langchain-google-genai
+matplotlib
+seaborn
+tabulate
+langchain-experimental
+python-dotenv
