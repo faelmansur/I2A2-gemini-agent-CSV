@@ -38,7 +38,7 @@ Carregue um CSV e faça perguntas como "Existem valores atípicos?" ou "Quais co
 
 \## Deploy
 
-Disponível em: https://seu-app.streamlit.app
+Disponível em: [https://rafaelmansur.streamlit.app)]
 
 
 
