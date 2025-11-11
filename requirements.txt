@@ -1,11 +1,12 @@
 # Execute: pip install -r requirements.txt
 
-streamlit
+streamlit>=1.30.0
 pandas
-langchain
-langchain-google-genai
 matplotlib
 seaborn
 tabulate
-langchain-experimental
 python-dotenv
+langchain>=0.2.0
+langchain-google-genai>=1.0.0
+langchain-experimental>=0.0.60
+langchain-core>=0.2.0
